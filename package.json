@@ -1,0 +1,27 @@
+{
+  "name": "myownlodash",
+  "version": "1.0.0",
+  "description": "自己实现一个lodash，用以深入学习JavaScript基础知识",
+  "main": "lodash.core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaBiuBiuBiu/MyOwnLodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelaBiuBiuBiu/MyOwnLodash/issues"
+  },
+  "homepage": "https://github.com/AngelaBiuBiuBiu/MyOwnLodash#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

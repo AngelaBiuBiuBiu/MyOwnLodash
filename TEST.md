@@ -1,1 +1,1 @@
-test
+test commitizen cz-conventional-changelog
